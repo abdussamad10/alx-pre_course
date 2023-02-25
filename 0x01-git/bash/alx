@@ -3,6 +3,6 @@ ALX School is so cool!
 =======
 echo
 !/bin/bash
-ALX School
+echo "ALX School"
 echo ALX
 >>>>>>> update_script
